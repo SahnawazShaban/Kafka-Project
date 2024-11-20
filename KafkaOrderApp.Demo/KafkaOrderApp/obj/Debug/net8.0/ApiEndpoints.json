@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "KafkaOrderApp.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "KafkaOrderApp.Models.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

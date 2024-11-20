@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|c:\\users\\shahnawaz\\source\\repos\\kafkaorderapp.demo\\kafkaorderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|solutionrelative:kafkaorderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|c:\\users\\shahnawaz\\source\\repos\\kafkaorderapp.demo\\kafkaorderapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|solutionrelative:kafkaorderapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|c:\\users\\shahnawaz\\source\\repos\\kafkaorderapp.demo\\kafkaorderapp\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|solutionrelative:kafkaorderapp\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|c:\\users\\shahnawaz\\source\\repos\\kafkaorderapp.demo\\kafkaorderapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|solutionrelative:kafkaorderapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|c:\\users\\shahnawaz\\source\\repos\\kafkaorderapp.demo\\kafkaorderapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|solutionrelative:kafkaorderapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|c:\\users\\shahnawaz\\source\\repos\\kafkaorderapp.demo\\kafkaorderapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|solutionrelative:kafkaorderapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|c:\\users\\shahnawaz\\source\\repos\\kafkaorderapp.demo\\kafkaorderapp\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|solutionrelative:kafkaorderapp\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|c:\\users\\shahnawaz\\source\\repos\\kafkaorderapp.demo\\kafkaorderapp\\models\\kafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B565DD2-9A63-4EE2-A7DD-2F6EB3D564E5}|KafkaOrderApp\\KafkaOrderApp.csproj|solutionrelative:kafkaorderapp\\models\\kafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaOrderApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Program.cs",
+              "RelativeToolTip": "KafkaOrderApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:39:22.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Services\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "KafkaOrderApp\\Services\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Services\\KafkaConsumerService.cs",
+              "RelativeToolTip": "KafkaOrderApp\\Services\\KafkaConsumerService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:40:16.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "KafkaOrderApp\\Services\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "KafkaOrderApp\\Services\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:38:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "KafkaOrderApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Models\\Order.cs",
+              "RelativeToolTip": "KafkaOrderApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:37:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaOrderApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\appsettings.json",
+              "RelativeToolTip": "KafkaOrderApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T13:34:49.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KafkaOrderApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KafkaOrderApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T12:07:25.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "KafkaOrderApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "KafkaOrderApp\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:41:58.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KafkaConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Models\\KafkaConfig.cs",
+              "RelativeDocumentMoniker": "KafkaOrderApp\\Models\\KafkaConfig.cs",
+              "ToolTip": "C:\\Users\\Shahnawaz\\source\\repos\\KafkaOrderApp.Demo\\KafkaOrderApp\\Models\\KafkaConfig.cs",
+              "RelativeToolTip": "KafkaOrderApp\\Models\\KafkaConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:38:49.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
